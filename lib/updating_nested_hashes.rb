@@ -59,11 +59,11 @@ def add_characters
 
    epic_tragedy[:additional_characters][:name] = ["Prince Escalus", "Apothecary"]
 
-   if shipping_manifest["top hat"]
-     shipping_manifest["top hat"] += 1
-   else
-     shipping_manifest["top hat"] = 1
-   end
+   #if shipping_manifest["top hat"]
+     #shipping_manifest["top hat"] += 1
+   #else
+     #shipping_manifest["top hat"] = 1
+   #end
 
 
 
